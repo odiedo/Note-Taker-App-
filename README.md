@@ -21,7 +21,7 @@ NoteTaker is a simple React Native mobile application that allows users to take 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/odiedo/NoteTaker.git
+   git clone https://github.com/odiedo/Note-Taker-App-.git
    cd NoteTaker
    ```
 
